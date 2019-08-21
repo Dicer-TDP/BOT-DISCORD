@@ -1,0 +1,22 @@
+{
+  "name": "package.json",
+  "version": "0.0.1",
+  "description": "Discord TDP From Authentication Community",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "run": "node ."
+  },
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Dicer-TDP"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Dicer XNullByte",
+  "license": "ISC"
+}
